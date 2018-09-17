@@ -1,0 +1,11 @@
+/Users/rodneykam/RiderProjects/DotNetCoreApp/DotNetCoreApp/bin/Debug/netcoreapp2.1/DotNetCoreApp.deps.json
+/Users/rodneykam/RiderProjects/DotNetCoreApp/DotNetCoreApp/bin/Debug/netcoreapp2.1/DotNetCoreApp.runtimeconfig.json
+/Users/rodneykam/RiderProjects/DotNetCoreApp/DotNetCoreApp/bin/Debug/netcoreapp2.1/DotNetCoreApp.runtimeconfig.dev.json
+/Users/rodneykam/RiderProjects/DotNetCoreApp/DotNetCoreApp/bin/Debug/netcoreapp2.1/DotNetCoreApp.dll
+/Users/rodneykam/RiderProjects/DotNetCoreApp/DotNetCoreApp/bin/Debug/netcoreapp2.1/DotNetCoreApp.pdb
+/Users/rodneykam/RiderProjects/DotNetCoreApp/DotNetCoreApp/obj/Debug/netcoreapp2.1/DotNetCoreApp.csprojAssemblyReference.cache
+/Users/rodneykam/RiderProjects/DotNetCoreApp/DotNetCoreApp/obj/Debug/netcoreapp2.1/DotNetCoreApp.csproj.CoreCompileInputs.cache
+/Users/rodneykam/RiderProjects/DotNetCoreApp/DotNetCoreApp/obj/Debug/netcoreapp2.1/DotNetCoreApp.AssemblyInfoInputs.cache
+/Users/rodneykam/RiderProjects/DotNetCoreApp/DotNetCoreApp/obj/Debug/netcoreapp2.1/DotNetCoreApp.AssemblyInfo.cs
+/Users/rodneykam/RiderProjects/DotNetCoreApp/DotNetCoreApp/obj/Debug/netcoreapp2.1/DotNetCoreApp.dll
+/Users/rodneykam/RiderProjects/DotNetCoreApp/DotNetCoreApp/obj/Debug/netcoreapp2.1/DotNetCoreApp.pdb
