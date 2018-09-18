@@ -6,13 +6,13 @@ namespace DotNetCoreApp
     {
         static void Main(string[] args)
         {
-            var _vaultClientId = Environment.GetEnvironmentVariable("VaultClientId");
-            var _vaultClientKey = Environment.GetEnvironmentVariable("VaultClientKey");
-            var _vaultURI = Environment.GetEnvironmentVariable("VaultURI");
+            var _clientId = Environment.GetEnvironmentVariable("ClientId");
+            var _clientKey = Environment.GetEnvironmentVariable("ClientKey");
+            var _secretsURI = Environment.GetEnvironmentVariable("SecretsURI");
             
-            Console.WriteLine(string.Format("Client Id: {0}", _vaultClientId));
-            Console.WriteLine(string.Format("Client Key: {0}", _vaultClientKey));
-            Console.WriteLine(string.Format("Client URI: {0}", _vaultURI));
+            Console.WriteLine(string.Format("Client Id: {0}", _clientId));
+            Console.WriteLine(string.Format("Client Key: {0}", _clientKey));
+            Console.WriteLine(string.Format("Client URI: {0}", _secretsURI));
         }
     }
 }
