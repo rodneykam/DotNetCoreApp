@@ -16,7 +16,7 @@
             {
                 "ClientId": "c83d2738-7e10-47f3-9512-50953459d63c",
                 "ClientKey": "OBB94url2V7sleSlhlgUf3qRUERQSsnn8uDtLA1KTkQ=",
-                "SecretsURI": "https://image-builder-keyvault.vault.azure.net/secrets/subscription-id/537651b925f742de857a6ae7fd51081a"
+                "SecretsURI": "https://image-builder-keyvault.vault.azure.net"
             },
             "cwd": "${workspaceFolder}/DotNetCoreApp",
             // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
