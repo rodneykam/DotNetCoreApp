@@ -10,6 +10,7 @@ namespace DotNetCoreApp
         private KeyVaultClient kvClient { get; set; }
         public KeyVaultHelper()
         {
+            // Initialize Key Vault client and authenticate. 
             kvClient = new KeyVaultClient(new KeyVaultClient.AuthenticationCallback(KeyVaultHelper.GetToken));
         }
 
